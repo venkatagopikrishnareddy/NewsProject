@@ -1,0 +1,22 @@
+body{
+   background-image: url("../images/g2.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+h1{
+    color:blue;
+    background-color: lightgrey;
+    text-align: center;
+    border:2px Solid Red;
+}
+img{
+    width:200px;
+    height:150px;
+}
+span{
+    background-color: white;
+    border: 1px Solid black;
+    padding:2px;
+    color:red;
+}
